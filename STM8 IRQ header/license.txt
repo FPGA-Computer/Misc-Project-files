@@ -1,0 +1,6 @@
+Files are under GPL v3.
+
+project page: https://hw-by-design.blogspot.com/2018/07/stm8-alternative-irq-vectors-declaration.html
+
+For more STM8F info, be sure to visit: 
+http://hw-by-design.blogspot.com/2018/07/misc-8-bit-uc-projects.html

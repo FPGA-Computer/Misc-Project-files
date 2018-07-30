@@ -4,3 +4,4 @@ Other files are under Creative Common Attribution 4.0 International.
 
 project page: https://hw-by-design.blogspot.com/2018/07/arm-quick-dirty-dds-for-around-2.html
 
+For more STM32F030 reference material, be sure to visit: http://hw-by-design.blogspot.com/2018/07/misc-arm-porjects.html
