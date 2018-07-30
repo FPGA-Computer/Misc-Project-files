@@ -1,0 +1,6 @@
+DDS C source code. 
+startup_stm32f030.s - copyrighted by ST - Licensed under MCD-ST Liberty SW License Agreement V2. 
+Other files are under Creative Common Attribution 4.0 International.
+
+project page: https://hw-by-design.blogspot.com/2018/07/arm-quick-dirty-dds-for-around-2.html
+
